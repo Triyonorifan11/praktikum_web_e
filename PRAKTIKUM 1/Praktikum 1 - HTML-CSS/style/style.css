@@ -1,0 +1,237 @@
+body {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 100px;
+    background-color: #d8f4fa;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 30px;
+    max-width: 1444px;
+}
+
+html {
+    position: relative;
+    justify-content: center;
+}
+
+.navbar {
+    width: 100%;
+    height: 40px;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: #00b4d8;
+    right: 0;
+    border-width: 0 0 1px;
+    font: 18px/36px, arial, sans-serif;
+    position: relative;
+}
+
+.nama .portofolioku {
+    font-size: 20px;
+    color: white;
+    font-style: normal;
+    padding: 3px 25px;
+
+}
+
+.jumbotron {
+    color: rgb(243, 236, 236);
+    background-image: url(../images/Bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -10px;
+    overflow: hidden;
+    padding-top: 78px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eeeeee;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.nametag {
+    color: white;
+}
+
+.jumbotron img {
+    width: 180px;
+}
+
+.jumbotron h1 {
+    font-size: 63px;
+    padding: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    color: white;
+}
+
+.sosmed {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+button {
+    background-color: transparent;
+    border-color: transparent;
+    padding: 0 10px;
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+}
+
+.btn-fac {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.btn-fac:hover {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+.btn-wa {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+
+.btn-git {
+    color: #fff;
+    background-color: #2e2e2e;
+    border-color: #2e2e2e;
+}
+
+.btn-ptr {
+    color: #fff;
+    background-color: #c1121f;
+    border-color: #c1121f;
+}
+
+.btn-wa:hover {
+    color: #fff;
+    background-color: #449d44;
+    border-color: #398439;
+}
+
+.btn-ig {
+    color: #fff;
+    background-color: #9d4dc9;
+    border-color: #9d4dc9;
+}
+
+.btn-ig:hover {
+    color: #fff;
+    background-color: #6f2199;
+    border-color: #6f2199;
+}
+
+.btn-git:hover {
+    color: #fff;
+    background-color: #161616;
+    border-color: #161616;
+}
+
+.btn-ptr:hover {
+    color: #fff;
+    background-color: #a50e18;
+    border-color: #a50e18;
+}
+
+/* Gif */
+.gif {
+    position: relative;
+    height: 500px;
+    color: rgb(243, 236, 236);
+    background-position: 0 -10px;
+    background-image: url(../images/salam.gif);
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 78px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eeeeee;
+    text-align: center;
+}
+
+.box {
+    background-color: white;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.text-box {
+    color: #006d77;
+}
+
+.subtitle {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.penjelasan {
+    margin-top: 18px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+
+/* form */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    display: block;
+    width: 97%;
+    height: 80px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    margin: 10px 0px;
+    font: 17px montserratregular, 'arial narrow', arial, sans-serif;
+}
+
+.btn-sm {
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* Footer */
+.footer {
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: #f6bd60;
+    margin-top: 30px;
+    right: 0;
+    z-index: 1030;
+    border-width: 0 0 1px;
+    font: 18px/36px montserratregular, 'arial narrow', arial, sans-serif;
+    position: absolute;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
