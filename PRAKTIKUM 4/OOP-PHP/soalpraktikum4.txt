@@ -1,0 +1,57 @@
+https://www.duniailkom.com/tutorial-belajar-oop-php-pemrograman-berbasis-objek-php/
+
+a. Implementasi pembuatan dan pengaksesan Class
+
+b. Implementasi pembuatan dan pengaksesan Objek
+
+c. Implementasi Enkapsulasi Objek (Public, Protected dan Private)
+
+d. Implementasi Variabel $this dalam Pemrograman Objek
+
+e. Penggunaan Pseudo-Variable $this dalam Objek
+
+f. Cara Membuat Method dalam Pemrograman Objek 
+
+g. Implementasi Constructor dan Destructor
+
+h. Implementasi Inheritance (Pewarisan)
+
+i. Cara Mengakses Property dan Method Parent Class
+
+j. Implementasi Constructor dan Destructor padaa Parent Class
+
+k. implementasi Static Property dan Static Method
+
+l. Implementasi Konstanta Class dalam Pemrograman Objek
+
+m. Implementasi Final Method dan Final Class
+
+n. Implementasi Abstract Class dan Abstract Method PHP
+
+o. Implementasi Object Interface
+
+p. implementasi Polimorfisme dalam Pemrograman Objek
+
+nb: berikan contoh minimal 1 pada masing masing poin diatas dan sertakan sumber litaratur yg digunakan untuk menjawab pertanyaan-pertanyaan diatas.
+
+
+===============================================================================
+Berikut adalah index daftar tutorial belajar Pemrograman Berbasis Objek PHP:
+
+Tutorial OOP PHP Part 1: Pengertian Pemrograman Berbasis Objek
+Tutorial OOP PHP Part 2: Pengertian Class, Object, Property dan Method
+Tutorial OOP PHP Part 3: Cara Membuat dan Mengakses Objek dalam PHP
+Tutorial OOP PHP Part 4: Pengertian Enkapsulasi Objek (Public, Protected dan Private)
+Tutorial OOP PHP Part 5: Pengertian Variabel $this dalam Pemrograman Objek
+Tutorial OOP PHP Part 6: Cara Penggunaan Pseudo-Variable $this dalam Objek PHP
+Tutorial OOP PHP Part 7: Cara Membuat Method dalam Pemrograman Objek PHP
+Tutorial OOP PHP Part 8: Pengertian Constructor dan Destructor
+Tutorial OOP PHP Part 9: Pengertian Inheritance (Pewarisan)
+Tutorial OOP PHP Part 10: Cara Mengakses Property dan Method Parent Class
+Tutorial OOP PHP Part 11: Cara Mengakses Constructor dan Destructor Parent Class
+Tutorial OOP PHP Part 12: Pengertian Static Property dan Static Method
+Tutorial OOP PHP Part 13: Pengertian Konstanta Class dalam Pemrograman Objek
+Tutorial OOP PHP Part 14: Pengertian Final Method dan Final Class
+Tutorial OOP PHP Part 15: Pengertian Abstract Class dan Abstract Method PHP
+Tutorial OOP PHP Part 16: Pengertian Object Interface
+Tutorial OOP PHP Part 17: Pengertian Polimorfisme dalam Pemrograman Objek PHP
